@@ -1,42 +1,30 @@
-# 🤖 AI-Powered Telegram Bot Automation using n8n & OpenAI  
+# 🤖 Telegram AI Chatbot
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=🚀+End-to-End+n8n+AI+Automation;🤖+Telegram+Bot+with+OpenAI+AI+Agent;⚡+Real-Time+Intelligent+Text+Responses" />
-</p>
+An intelligent **Telegram AI Chatbot** powered by **OpenAI GPT** that can chat with users, answer questions, assist in learning, and automate conversations directly inside Telegram.
 
 ---
 
-## 📌 Introduction  
+## ✨ Features
 
-This project showcases a **fully automated AI-powered Telegram chatbot** built using **n8n workflow automation** and **OpenAI AI Agent**.
-
-The goal of this automation is to create a **real-time conversational AI system** where:
-- A user sends a message on Telegram
-- The message is instantly processed by an AI model
-- An intelligent, context-aware reply is sent back automatically  
-
-This solution follows a **no-code / low-code approach**, making it scalable, efficient, and easy to customize for multiple real-world use cases.
-
----
-
-## 🎯 Project Objective  
-
-The main objectives of this project are:
-
-- To demonstrate **AI agent integration inside n8n**
-- To build a **Telegram chatbot without traditional coding**
-- To automate text-based user interaction using OpenAI
-- To create a reusable workflow that can be extended to multiple domains  
+- 💬 Natural language conversations
+- 🧠 AI-powered responses using OpenAI (GPT)
+- 📚 Study assistant (Python, SQL, AI, etc.)
+- ⚡ Real-time replies on Telegram
+- 🔐 Secure API-based integration
+- 🌐 Easy to deploy and scalable
+- 🤖 Can be extended as an AI Agent (n8n supported)
 
 ---
 
-## 🧠 High-Level Workflow Explanation  
+## 🛠️ Tech Stack
 
-The automation is built using **three core nodes**, each with a specific responsibility.
+- **Python**
+- **Telegram Bot API**
+- **OpenAI API**
+- **python-telegram-bot**
+- Optional: **n8n (No-code automation)**
 
-```text
-Telegram Trigger  
-      ⬇  
-AI Agent (OpenAI)  
-      ⬇  
-Send Telegram Message
+---
+
+## 📁 Project Structure
+
